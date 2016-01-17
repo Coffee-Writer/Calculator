@@ -2,6 +2,12 @@
     background-color: black;
 }
 
+a:link {
+    background: none;
+    text-decoration: underline;
+    color: green;
+}
+
 button {
     float: left;
     display: inline;
@@ -66,14 +72,6 @@ li {
     margin-right: 1em;
 }
 
-a {
-    background: none;
-    text-decoration: none;
-}
-
-a:visted {
-    text-decoration: none;
-}
 
 #wrapper {
     height: 95%;
